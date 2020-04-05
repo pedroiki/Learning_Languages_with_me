@@ -1,0 +1,39 @@
+
+h1 {
+font-family: 'Sigmar One', cursive;
+font-size: 80px;
+text-align: center;
+color : #eb4559;
+}
+
+h3 {
+font-family: 'Comfortaa', cursive;
+font-size: 40px;
+text-align: right;
+color : #856c8b;
+}
+
+.logo {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+font-family: 'Comfortaa', cursive;
+font-size: 20px;
+color : #ffe75e;
+text-align: center;
+}
+
+body {
+background-color: #ffb6b6;
+}
+
+.copyright {
+  font-family: 'Comfortaa', cursive;
+  font-size: 20px;
+  text-align: left;
+  color : #856c8b
+
+}
